@@ -6,5 +6,7 @@ public class ring {
     public void ringing()
     {
         System.out.print("ringing");
+        System.out.println("pick it up");
+
     }
 }
